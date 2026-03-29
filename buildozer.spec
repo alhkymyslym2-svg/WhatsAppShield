@@ -1,5 +1,5 @@
 [app]
-title = "مساعد حل مشاكل واتساب"
+title = مساعد حل مشاكل واتساب
 package.name = whatsappshield
 package.domain = org.test
 source.dir = .
