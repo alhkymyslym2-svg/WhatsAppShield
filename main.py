@@ -14,7 +14,7 @@ MODDED_PACKAGES = [
 
 class WhatsAppCleanerApp(App):
     def build(self):
-        self.title = "نظام الحماية والتطهير الذكي"
+        self.title = "مساعد حل مشاكل واتساب"
         main_layout = BoxLayout(orientation='vertical', padding=20, spacing=15)
         
         # العنوان العلوي
